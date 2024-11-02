@@ -12,7 +12,7 @@ app.http('MyFunnyJoke', {
                   `<p>What do you call a detective who solves crimes` +
                   `by accident? Sheer Luck Holmes!</p>` +
                   `<p>Why did Mozart get rid of his chickens? Because` +
-                  `they keep saying Bach, Bach, Bach</p>` +
+                  ` they keep saying Bach, Bach, Bach</p>` +
                   `<p>No matter how much we push the envelope, it's` +
                   ` still stationery.</p>` +
                   `</body></html>`,
