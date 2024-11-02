@@ -1,0 +1,8 @@
+{
+    "azureFunctions.deploySubpath": "ITL525-FA24B-ncalappurackal-Assignment2_1",
+    "azureFunctions.postDeployTask": "npm install (functions)",
+    "azureFunctions.projectLanguage": "JavaScript",
+    "azureFunctions.projectRuntime": "~4",
+    "azureFunctions.projectLanguageModel": 4,
+    "azureFunctions.preDeployTask": "npm prune (functions)"
+}
